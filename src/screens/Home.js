@@ -56,6 +56,7 @@ const Home = ({ navigation }) => {
 					>
 						<Text>Demo 2</Text>
 					</Pressable>
+					<Button colorScheme="success" onPress={() => navigation.navigate('Tareas')}>Tareas</Button>
 				</VStack>
 			</Center>
 		</NativeBaseProvider>
