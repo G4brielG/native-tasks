@@ -1,9 +1,13 @@
-# NativeBase Expo Template
-
-The official NativeBase template for [Expo](https://docs.expo.io/)
-
-## Usage
+## Uso
 
 ```sh
-expo init my-app --template @native-base/expo-template
+git clone https://github.com/LordTiamat/ipf-react-native-app-layout.git
+```
+
+```sh
+npm install
+```
+
+```sh
+npx expo start
 ```
